@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/hp/IdeaProjects/SeleniumPractice/src/main/java/TestNG">
+        <classes>
+            <class name="TestNG.amazonTest">
+                <methods>
+                    <include name="openApp"/>
+                    <include name="testLogo"/>
+                    <include name="login"/>
+                    <include name="closeApp"/>
+                </methods>
+            </class>
+            <class name="TestNG.sampleTestNG">
+                <methods>
+                    <include name="openApp"/>
+                    <include name="login"/>
+                    <include name="logout"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

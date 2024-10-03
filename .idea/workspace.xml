@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d54aa508-0afb-4faf-9c7c-598e9b6f695f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test data/dataDrivenBooks.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/amazon_specific_page.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/amazonfullpage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/flipcart_fullpage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshots/fullpage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Browser_metohd/BrowserMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Browser_metohd/implicitWait.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CSSLocators/css_locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Excel_data_driven/Reading_data_from_excel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Handeling_Alerts/Alerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Handeling_Checkboxex/handle_checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Browser_windows/Assignment1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Browser_windows/Handle_browser_winsows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Dropdown/assignment_hidden_dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Dropdown/assignment_select_dropdeown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Dropdown/bootstrap_dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Dropdown/hidden_dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Dropdown/select_dropdown.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Frame/frame_handle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_table/static_table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JavaPract/forEnhanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Mouse_Actions/Assignment_drag_drop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Mouse_Actions/Drag_and_drop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Mouse_Actions/Right_click.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Mouse_Actions/mouse_hover_action.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/POM/login_page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/POM/login_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/POM/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/FirefoxBrowserLaunch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/LOcators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/Locators2forRahulShetty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/LocatorsForFacebook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/LocatorsForRahulShettyWebsite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/MicrosoftEdgeBrowserLaunch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/sliblingToSibling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/windowActivities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Slider_dem0/keyboard_Actions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Slider_dem0/open_link_inNew_tab.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Slider_dem0/slider_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG/amazonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG/sampleTestNG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_annotation/BeforeClass_After_class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_annotation/annotation_BeforeMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_dataProvider/data_provider_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_dataProvider/paramTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_dependsOnMethods/dependsOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_grouping/grouping.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_grouping/login_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_grouping/payment_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_grouping/signUp_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_test_Before_After/All_annotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_test_Before_After/C1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_test_Before_After/C2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_test_Before_After/C3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_test_Before_After/assestionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_test_Before_After/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Xpath_locators/xpath_locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/capture_creeenshot/Assignment_Scrnneshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/capture_creeenshot/full_page_screenshot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/conditional_metohd/conditional_methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/file_upload/file_upload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/file_upload/multiple_file_upload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/navigational_command/navigational.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/All Test Suite/C__Users_hp_IdeaProjects_SeleniumPractice_src_main_java_TestNG.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/All Test Suite/C__Users_hp_IdeaProjects_SeleniumPractice_src_main_java_TestNG_amazonTest.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2k5wxa7eMK6HyoEmEhT8qJijgcV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/IdeaProjects/SeleniumPractice/Test data&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\IdeaProjects\SeleniumPractice\Test data" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hp\IdeaProjects\SeleniumPractice\src\main\java\POM" />
+      <recent name="C:\Users\hp\IdeaProjects\SeleniumPractice\src\main\java\TestNG_test_Before_After" />
+      <recent name="C:\Users\hp\IdeaProjects\SeleniumPractice\src\main\java\TestNG" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Users/hp/IdeaProjects/SeleniumPractice/src/main/java/POM/testng.xml">
+    <configuration name="C:/Users/hp/IdeaProjects/SeleniumPractice/src/main/java/POM/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/java/POM/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="data_provider_demo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNG_dataProvider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNG_dataProvider" />
+      <option name="MAIN_CLASS_NAME" value="TestNG_dataProvider.data_provider_demo" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="login_test.testLogin" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="POM.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="POM" />
+      <option name="MAIN_CLASS_NAME" value="POM.login_test" />
+      <option name="METHOD_NAME" value="testLogin" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="paramTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNG_dataProvider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNG_dataProvider" />
+      <option name="MAIN_CLASS_NAME" value="TestNG_dataProvider.paramTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="paramTest.testURL" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TestNG_dataProvider.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TestNG_dataProvider" />
+      <option name="MAIN_CLASS_NAME" value="TestNG_dataProvider.paramTest" />
+      <option name="METHOD_NAME" value="testURL" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/hp/IdeaProjects/SeleniumPractice/src/main/java/POM/testng.xml" />
+      <item itemvalue="TestNG.login_test.testLogin" />
+      <item itemvalue="TestNG.paramTest" />
+      <item itemvalue="TestNG.paramTest.testURL" />
+      <item itemvalue="TestNG.data_provider_demo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Users/hp/IdeaProjects/SeleniumPractice/src/main/java/POM/testng.xml" />
+        <item itemvalue="TestNG.login_test.testLogin" />
+        <item itemvalue="TestNG.paramTest" />
+        <item itemvalue="TestNG.paramTest.testURL" />
+        <item itemvalue="TestNG.data_provider_demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d54aa508-0afb-4faf-9c7c-598e9b6f695f" name="Changes" comment="" />
+      <created>1722586999876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722586999876</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

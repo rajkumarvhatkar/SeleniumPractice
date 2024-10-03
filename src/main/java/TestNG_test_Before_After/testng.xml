@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test preserve-order="true"
+          name="C:/Users/hp/IdeaProjects/SeleniumPractice/src/main/java/TestNG_test_Before_After/C1.java">
+        <classes>
+            <class name="TestNG_test_Before_After.C1"></class>
+            <class name="TestNG_test_Before_After.C2"></class>
+            <class name="TestNG_test_Before_After.C3"></class>
+
+
+        </classes>
+    </test>
+
+    <test  preserve-order="true"
+          name="C:/Users/hp/IdeaProjects/SeleniumPractice/src/main/java/TestNG_test_Before_After/C2.java">
+        <classes>
+            <class name="TestNG_test_Before_After.C1"></class>
+            <class name="TestNG_test_Before_After.C2"></class>
+            <class name="TestNG_test_Before_After.C3"></class>
+
+        </classes>
+    </test>
+
+</suite>
