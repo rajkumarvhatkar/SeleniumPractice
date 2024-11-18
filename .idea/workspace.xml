@@ -5,81 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d54aa508-0afb-4faf-9c7c-598e9b6f695f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Test data/dataDrivenBooks.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/amazon_specific_page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/amazonfullpage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/flipcart_fullpage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/screenshots/fullpage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Browser_metohd/BrowserMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Browser_metohd/implicitWait.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CSSLocators/css_locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Excel_data_driven/Reading_data_from_excel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handeling_Alerts/Alerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handeling_Checkboxex/handle_checkbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Browser_windows/Assignment1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Browser_windows/Handle_browser_winsows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Dropdown/assignment_hidden_dropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Dropdown/assignment_select_dropdeown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Dropdown/bootstrap_dropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Dropdown/hidden_dropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Dropdown/select_dropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_Frame/frame_handle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handle_table/static_table.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JavaPract/forEnhanced.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mouse_Actions/Assignment_drag_drop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mouse_Actions/Drag_and_drop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mouse_Actions/Right_click.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Mouse_Actions/mouse_hover_action.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/POM/login_page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/POM/login_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/POM/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/FirefoxBrowserLaunch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/LOcators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/Locators2forRahulShetty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/LocatorsForFacebook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/LocatorsForRahulShettyWebsite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/MicrosoftEdgeBrowserLaunch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/sliblingToSibling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SeleniumPra/windowActivities.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Slider_dem0/keyboard_Actions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Slider_dem0/open_link_inNew_tab.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Slider_dem0/slider_demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG/amazonTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG/sampleTestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_annotation/BeforeClass_After_class.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_annotation/annotation_BeforeMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_dataProvider/data_provider_demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_dataProvider/paramTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_dependsOnMethods/dependsOnMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_grouping/grouping.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_grouping/login_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_grouping/payment_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_grouping/signUp_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_test_Before_After/All_annotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_test_Before_After/C1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_test_Before_After/C2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_test_Before_After/C3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_test_Before_After/assestionDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/TestNG_test_Before_After/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Xpath_locators/xpath_locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/capture_creeenshot/Assignment_Scrnneshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/capture_creeenshot/full_page_screenshot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/conditional_metohd/conditional_methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/file_upload/file_upload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/file_upload/multiple_file_upload.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/navigational_command/navigational.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/All Test Suite/C__Users_hp_IdeaProjects_SeleniumPractice_src_main_java_TestNG.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/All Test Suite/C__Users_hp_IdeaProjects_SeleniumPractice_src_main_java_TestNG_amazonTest.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test-output/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/01448a41-5779-449a-b203-8ea2923c0bc0-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/07bafde5-7bec-4190-b48e-d418a7974c65-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/09b96b04-ed25-4fc9-b56f-600cced97cdf-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/1c85861b-539b-49ec-b0a3-fb8da7ed4850-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/3cc8edbe-8075-4394-9bc5-2ed5857a6452-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/4d3c67eb-9465-480a-9725-eddd49e137bb-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5fb0b38f-cfef-484d-9b6e-c9ae996a036f-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/5fca1f61-4c9b-4b8e-b1c2-b66c1f14ea7b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/6dd20add-66d3-42d7-a5d8-532271a1afd5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/723024a4-a1eb-4a5c-ac0f-f313a0a2cee4-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/8862d895-a7eb-43e4-ae90-d848ee09eb51-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/a279e0ed-654e-4bd6-ba08-94f6444ad111-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/aa20e7bd-9998-4117-92df-e897ad4e75d8-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b3150c4e-4832-4472-89f6-8de1d8a9ea11-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b81839b2-f091-4b07-ba0e-cedb145a610d-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/b9e9394b-aee9-4298-8dbd-dfede566cc47-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ba7554bb-d2ff-4dea-b8de-02ccb49a781b-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/d5ca7b24-250f-4891-a9c0-104ef71fb7d5-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/ee65c8cc-5d48-4675-95a5-dae55eed19f0-result.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/allure-results/f2208c34-2298-4075-8dcc-23b0f68f6dd6-container.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Handeling_Alerts/newAlerts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/curaHealthcare/verifypageSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/vwoTesting/vwoVerifying.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +50,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rajkumarvhatkar&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rajkumarvhatkar/SeleniumPractice.git&quot;,
+    &quot;accountId&quot;: &quot;ae5da911-688b-4820-89d8-d5b94eda9e2d&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/vwoTesting/vwoVerifying.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -111,16 +82,19 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.newAlerts.executor&quot;: &quot;Run&quot;,
+    &quot;Application.verifypageSource.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.vwoVerifying.testVwoNevigstion.executor&quot;: &quot;Run&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/hp/IdeaProjects/SeleniumPractice/Test data&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -133,28 +107,37 @@
       <recent name="C:\Users\hp\IdeaProjects\SeleniumPractice\src\main\java\TestNG" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/hp/IdeaProjects/SeleniumPractice/src/main/java/POM/testng.xml">
-    <configuration name="C:/Users/hp/IdeaProjects/SeleniumPractice/src/main/java/POM/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.newAlerts">
+    <configuration name="newAlerts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Handeling_Alerts.newAlerts" />
       <module name="SeleniumPractice" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/java/POM/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Handeling_Alerts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="data_provider_demo" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="verifypageSource" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="curaHealthcare.verifypageSource" />
       <module name="SeleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestNG_dataProvider.*" />
+          <option name="PATTERN" value="curaHealthcare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TestNG_dataProvider" />
-      <option name="MAIN_CLASS_NAME" value="TestNG_dataProvider.data_provider_demo" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/hp/IdeaProjects/SeleniumPractice/src/main/java/POM/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumPractice" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/java/POM/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
       <properties />
       <listeners />
       <method v="2">
@@ -179,34 +162,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="paramTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="vwoVerifying.testVwoNevigstion" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumPractice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TestNG_dataProvider.*" />
+          <option name="PATTERN" value="vwoTesting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TestNG_dataProvider" />
-      <option name="MAIN_CLASS_NAME" value="TestNG_dataProvider.paramTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="paramTest.testURL" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="TestNG_dataProvider.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="TestNG_dataProvider" />
-      <option name="MAIN_CLASS_NAME" value="TestNG_dataProvider.paramTest" />
-      <option name="METHOD_NAME" value="testURL" />
+      <option name="PACKAGE_NAME" value="vwoTesting" />
+      <option name="MAIN_CLASS_NAME" value="vwoTesting.vwoVerifying" />
+      <option name="METHOD_NAME" value="testVwoNevigstion" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -215,19 +181,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.newAlerts" />
+      <item itemvalue="Application.verifypageSource" />
+      <item itemvalue="TestNG.vwoVerifying.testVwoNevigstion" />
       <item itemvalue="TestNG.C:/Users/hp/IdeaProjects/SeleniumPractice/src/main/java/POM/testng.xml" />
       <item itemvalue="TestNG.login_test.testLogin" />
-      <item itemvalue="TestNG.paramTest" />
-      <item itemvalue="TestNG.paramTest.testURL" />
-      <item itemvalue="TestNG.data_provider_demo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.newAlerts" />
+        <item itemvalue="TestNG.vwoVerifying.testVwoNevigstion" />
+        <item itemvalue="Application.verifypageSource" />
         <item itemvalue="TestNG.C:/Users/hp/IdeaProjects/SeleniumPractice/src/main/java/POM/testng.xml" />
         <item itemvalue="TestNG.login_test.testLogin" />
-        <item itemvalue="TestNG.paramTest" />
-        <item itemvalue="TestNG.paramTest.testURL" />
-        <item itemvalue="TestNG.data_provider_demo" />
       </list>
     </recent_temporary>
   </component>
