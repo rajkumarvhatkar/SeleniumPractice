@@ -4,36 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d54aa508-0afb-4faf-9c7c-598e9b6f695f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/A.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/01448a41-5779-449a-b203-8ea2923c0bc0-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/07bafde5-7bec-4190-b48e-d418a7974c65-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/09b96b04-ed25-4fc9-b56f-600cced97cdf-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/1c85861b-539b-49ec-b0a3-fb8da7ed4850-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/3cc8edbe-8075-4394-9bc5-2ed5857a6452-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/4d3c67eb-9465-480a-9725-eddd49e137bb-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5fb0b38f-cfef-484d-9b6e-c9ae996a036f-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/5fca1f61-4c9b-4b8e-b1c2-b66c1f14ea7b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/6dd20add-66d3-42d7-a5d8-532271a1afd5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/723024a4-a1eb-4a5c-ac0f-f313a0a2cee4-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/8862d895-a7eb-43e4-ae90-d848ee09eb51-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/a279e0ed-654e-4bd6-ba08-94f6444ad111-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/aa20e7bd-9998-4117-92df-e897ad4e75d8-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b3150c4e-4832-4472-89f6-8de1d8a9ea11-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b81839b2-f091-4b07-ba0e-cedb145a610d-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/b9e9394b-aee9-4298-8dbd-dfede566cc47-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ba7554bb-d2ff-4dea-b8de-02ccb49a781b-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/d5ca7b24-250f-4891-a9c0-104ef71fb7d5-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/ee65c8cc-5d48-4675-95a5-dae55eed19f0-result.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/allure-results/f2208c34-2298-4075-8dcc-23b0f68f6dd6-container.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Handeling_Alerts/newAlerts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/curaHealthcare/verifypageSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/vwoTesting/vwoVerifying.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d54aa508-0afb-4faf-9c7c-598e9b6f695f" name="Changes" comment="changes done2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -206,9 +177,30 @@
       <option name="presentableId" value="Default" />
       <updated>1722586999876</updated>
     </task>
+    <task id="LOCAL-00001" summary="changes done">
+      <option name="closed" value="true" />
+      <created>1731913765928</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1731913765928</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changes done2">
+      <option name="closed" value="true" />
+      <created>1731913819034</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1731913819034</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="changes done" />
+    <MESSAGE value="Merge branch 'master' of https://github.com/rajkumarvhatkar/SeleniumPractice" />
+    <MESSAGE value="changes done2" />
+    <option name="LAST_COMMIT_MESSAGE" value="changes done2" />
   </component>
 </project>
